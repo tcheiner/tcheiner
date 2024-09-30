@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TC</h1>
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on [Train Red BLE](http://github.com/tcheiner/MyndSensTrainRed)
+- 🔭 I’m currently working on [Stable Diffusion Image Generation](http://github.com/tcheiner/SD)
 
 - 🌱 I’m currently learning **Kotlin/Android, Python, ChatGPT**
 
