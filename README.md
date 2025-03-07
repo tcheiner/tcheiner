@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a port of the Sweaters By HedgeHog (TTRPG) game - completed in Node.js for Discord, working on one in python/AWS Lambda
 
-- 🌱 I’m currently learning **AWS Associate Cloud Certification, Stable Diffusion workflows**
+- 🌱 I’m currently learning the Microsoft Azure cloud ecosystem
 
 - 👯 I’m looking to collaborate on **any new open source project pertaining to healthcare or fintech**
 
