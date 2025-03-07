@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TC</h1>
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on [Stable Diffusion Image Generation](http://github.com/tcheiner/SD)
+- 🔭 I’m currently working on a port of the Sweaters By HedgeHog (TTRPG) game - completed in Node.js for Discord, working on one in python/AWS Lambda
 
 - 🌱 I’m currently learning **AWS Associate Cloud Certification, Stable Diffusion workflows**
 
