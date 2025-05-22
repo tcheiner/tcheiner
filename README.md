@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm TC</h1>
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on a port of the Sweaters By HedgeHog (TTRPG) game - completed in Node.js for Discord, working on one in python/AWS Lambda
+- 🔭 I’m currently working on a port of the Sweaters By HedgeHog (TTRPG) game - FastAPI/Python/Redis.
 
-- 🌱 I’m currently learning the Microsoft Azure cloud ecosystem
+- 🌱 I’m currently learning about ETLs.
 
 - 👯 I’m looking to collaborate on **any new open source project pertaining to healthcare or fintech**
 
-- 💬 Ask me about **development in banking, backend development**
+- 💬 Ask me about **development in banking, backend development** or visit my webpage at tcheiner.com
 
 - 📫 How to reach me **tcheiner@gmail.com**
 
