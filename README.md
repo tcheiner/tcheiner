@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm TC</h1>
 <h3 align="center">A developer.</h3>
 
-- 🔭 I’m currently working on a port of the Sweaters By HedgeHog (TTRPG) game - FastAPI/Python/Redis.
+- 🔭 I’m currently working on a stealth project about community building - the loneliness epidemic cannot be understated.
+  
+- 🌱 I’m currently learning about Go (which is supposedly exceptional for backend).
 
-- 🌱 I’m currently learning about ETLs.
+- 👯 I’m looking to collaborate on a startup (something that adds good in this world, helps me grow, or helps my retirement grow).
 
-- 👯 I’m looking to collaborate on **any new open source project pertaining to healthcare or fintech**
-
-- 💬 Ask me about **development in banking, backend development** or visit my webpage at tcheiner.com
+- 💬 Ask me about **full-stack, backend development, help transform your prototype or research-oriented code into robust, production-grade code** or visit my webpage at tcheiner.com
 
 - 📫 How to reach me **tcheiner@gmail.com**
 
